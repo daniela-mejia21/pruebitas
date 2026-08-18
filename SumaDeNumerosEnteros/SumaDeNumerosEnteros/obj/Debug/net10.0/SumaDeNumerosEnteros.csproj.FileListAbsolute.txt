@@ -1,0 +1,15 @@
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\bin\Debug\net10.0\SumaDeNumerosEnteros.exe
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\bin\Debug\net10.0\SumaDeNumerosEnteros.deps.json
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\bin\Debug\net10.0\SumaDeNumerosEnteros.runtimeconfig.json
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\bin\Debug\net10.0\SumaDeNumerosEnteros.dll
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\bin\Debug\net10.0\SumaDeNumerosEnteros.pdb
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.AssemblyInfoInputs.cache
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.AssemblyInfo.cs
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.csproj.CoreCompileInputs.cache
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.dll
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\refint\SumaDeNumerosEnteros.dll
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.pdb
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNumerosEnteros.genruntimeconfig.cache
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\ref\SumaDeNumerosEnteros.dll
+C:\Users\dmeji\source\repos\Practicas\SumaDeNumerosEnteros\SumaDeNumerosEnteros\obj\Debug\net10.0\SumaDeNu.DBCD3C1D.Up2Date
